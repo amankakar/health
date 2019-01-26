@@ -1,32 +1,38 @@
 {
   "name": "health-care",
   "version": "1.0.0",
-  "description": "Health -care project",
+  "description": "",
   "main": "truffle-config.js",
   "directories": {
     "test": "test"
   },
   "scripts": {
-    "test": "mocha",
-    "dev": "node server.js"
+    "dev": "node server.js",
+    "build": "next build",
+    "now-build": "next build",
+    "heroku-postbuild": "next build",
+    "start": "NODE_ENV=production node server.js"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
     "bignumber.js": "^8.0.1",
+    "express": "^4.16.4",
+    "ipfs-api": "^26.1.2",
     "mocha": "^5.2.0",
-    "next": "^7.0.2",
+    "next": "^8.0.0-canary.7",
     "next-routes": "^1.4.2",
     "react": "^16.6.3",
     "react-datepicker": "^2.0.0",
     "react-dom": "^16.6.3",
     "react-hide-div": "^1.0.1",
+    "react-pdf": "^4.0.0",
     "react-semantic-datetime": "^1.0.5",
     "react-toggle-display": "^2.2.0",
     "semantic-ui-calendar-react": "^0.12.1",
     "semantic-ui-css": "^2.4.1",
+    "semantic-ui-react": "^0.84.0",
     "truffle-contract": "^4.0.0-next.0",
     "web3": "^1.0.0-beta.35"
-  },
-  "devDependencies": {}
+  }
 }
