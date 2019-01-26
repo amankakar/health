@@ -143,7 +143,7 @@
       "publicPath": "static/chunks/commons.6f5bf562d8a7079350e9.js"
     }
   ],
-  "lodash/get": [
+  "./get": [
     {
       "id": 29,
       "name": "./node_modules/lodash/get.js",
@@ -159,7 +159,7 @@
       "publicPath": "static/chunks/commons.6f5bf562d8a7079350e9.js"
     }
   ],
-  "./../process/browser.js": [
+  "./../../process/browser.js": [
     {
       "id": 32,
       "name": "./node_modules/process/browser.js",
@@ -231,16 +231,10 @@
       "publicPath": "static/chunks/commons.6f5bf562d8a7079350e9.js"
     }
   ],
-  "../helpers/typeof": [
+  "@babel/runtime/helpers/typeof": [
     {
       "id": 50,
       "name": "./node_modules/semantic-ui-react/node_modules/@babel/runtime/helpers/typeof.js",
-      "file": "static/chunks/commons.6f5bf562d8a7079350e9.js",
-      "publicPath": "static/chunks/commons.6f5bf562d8a7079350e9.js"
-    },
-    {
-      "id": 534,
-      "name": "./node_modules/@babel/runtime-corejs2/helpers/typeof.js",
       "file": "static/chunks/commons.6f5bf562d8a7079350e9.js",
       "publicPath": "static/chunks/commons.6f5bf562d8a7079350e9.js"
     }
@@ -355,7 +349,7 @@
       "publicPath": "static/chunks/commons.6f5bf562d8a7079350e9.js"
     }
   ],
-  "./noop": [
+  "lodash/noop": [
     {
       "id": 77,
       "name": "./node_modules/lodash/noop.js",
@@ -395,7 +389,7 @@
       "publicPath": "static/chunks/commons.6f5bf562d8a7079350e9.js"
     }
   ],
-  "util": [
+  "util/": [
     {
       "id": 83,
       "name": "./node_modules/util/util.js",
@@ -531,7 +525,7 @@
       "publicPath": "static/chunks/commons.6f5bf562d8a7079350e9.js"
     }
   ],
-  "string_decoder": [
+  "string_decoder/": [
     {
       "id": 111,
       "name": "./node_modules/string_decoder/lib/string_decoder.js",
@@ -571,7 +565,7 @@
       "publicPath": "static/chunks/commons.6f5bf562d8a7079350e9.js"
     }
   ],
-  "lodash/isString": [
+  "./isString": [
     {
       "id": 126,
       "name": "./node_modules/lodash/isString.js",
@@ -961,7 +955,7 @@
       "publicPath": "static/chunks/commons.6f5bf562d8a7079350e9.js"
     }
   ],
-  "./_baseKeys": [
+  "../_baseKeys": [
     {
       "id": 269,
       "name": "./node_modules/lodash/_baseKeys.js",
@@ -1161,16 +1155,10 @@
       "publicPath": "static/chunks/commons.6f5bf562d8a7079350e9.js"
     }
   ],
-  "./util": [
+  "./compile/util": [
     {
       "id": 352,
       "name": "./node_modules/truffle-contract-schema/node_modules/ajv/lib/compile/util.js",
-      "file": "static/chunks/commons.6f5bf562d8a7079350e9.js",
-      "publicPath": "static/chunks/commons.6f5bf562d8a7079350e9.js"
-    },
-    {
-      "id": 1443,
-      "name": "./node_modules/url/util.js",
       "file": "static/chunks/commons.6f5bf562d8a7079350e9.js",
       "publicPath": "static/chunks/commons.6f5bf562d8a7079350e9.js"
     }
@@ -1359,7 +1347,7 @@
       "publicPath": "static/chunks/commons.6f5bf562d8a7079350e9.js"
     }
   ],
-  "lodash/difference": [
+  "../difference": [
     {
       "id": 520,
       "name": "./node_modules/lodash/difference.js",
@@ -1447,6 +1435,14 @@
       "publicPath": "static/chunks/commons.6f5bf562d8a7079350e9.js"
     }
   ],
+  "../helpers/typeof": [
+    {
+      "id": 534,
+      "name": "./node_modules/@babel/runtime-corejs2/helpers/typeof.js",
+      "file": "static/chunks/commons.6f5bf562d8a7079350e9.js",
+      "publicPath": "static/chunks/commons.6f5bf562d8a7079350e9.js"
+    }
+  ],
   "@babel/runtime-corejs2/core-js/set": [
     {
       "id": 535,
@@ -1455,7 +1451,7 @@
       "publicPath": "static/chunks/commons.6f5bf562d8a7079350e9.js"
     }
   ],
-  "@babel/runtime-corejs2/helpers/assertThisInitialized": [
+  "./assertThisInitialized": [
     {
       "id": 536,
       "name": "./node_modules/@babel/runtime-corejs2/helpers/assertThisInitialized.js",
@@ -1845,7 +1841,7 @@
       "publicPath": "static/chunks/commons.6f5bf562d8a7079350e9.js"
     }
   ],
-  "@babel/runtime-corejs2/core-js/array/is-array": [
+  "../core-js/array/is-array": [
     {
       "id": 599,
       "name": "./node_modules/@babel/runtime-corejs2/core-js/array/is-array.js",
@@ -1869,7 +1865,7 @@
       "publicPath": "static/chunks/commons.6f5bf562d8a7079350e9.js"
     }
   ],
-  "@babel/runtime-corejs2/core-js/object/assign": [
+  "../core-js/object/assign": [
     {
       "id": 602,
       "name": "./node_modules/@babel/runtime-corejs2/core-js/object/assign.js",
@@ -2115,7 +2111,7 @@
       "publicPath": "static/chunks/commons.6f5bf562d8a7079350e9.js"
     }
   ],
-  "./resolve": [
+  "./compile/resolve": [
     {
       "id": 632,
       "name": "./node_modules/truffle-contract-schema/node_modules/ajv/lib/compile/resolve.js",
@@ -2131,7 +2127,7 @@
       "publicPath": "static/chunks/commons.6f5bf562d8a7079350e9.js"
     }
   ],
-  "./error_classes": [
+  "./compile/error_classes": [
     {
       "id": 634,
       "name": "./node_modules/truffle-contract-schema/node_modules/ajv/lib/compile/error_classes.js",
@@ -2235,7 +2231,7 @@
       "publicPath": "static/chunks/commons.6f5bf562d8a7079350e9.js"
     }
   ],
-  "@babel/runtime-corejs2/core-js/object/keys": [
+  "../core-js/object/keys": [
     {
       "id": 1099,
       "name": "./node_modules/@babel/runtime-corejs2/core-js/object/keys.js",
@@ -2703,7 +2699,7 @@
       "publicPath": "static/chunks/commons.6f5bf562d8a7079350e9.js"
     }
   ],
-  "./jsonrpc": [
+  "./jsonrpc.js": [
     {
       "id": 1157,
       "name": "./node_modules/web3-core-requestmanager/src/jsonrpc.js",
@@ -3051,7 +3047,7 @@
       "publicPath": "static/chunks/commons.6f5bf562d8a7079350e9.js"
     }
   ],
-  "./schema_obj": [
+  "./compile/schema_obj": [
     {
       "id": 1202,
       "name": "./node_modules/truffle-contract-schema/node_modules/ajv/lib/compile/schema_obj.js",
@@ -3607,6 +3603,14 @@
     {
       "id": 1442,
       "name": "./node_modules/node-libs-browser/node_modules/punycode/punycode.js",
+      "file": "static/chunks/commons.6f5bf562d8a7079350e9.js",
+      "publicPath": "static/chunks/commons.6f5bf562d8a7079350e9.js"
+    }
+  ],
+  "./util": [
+    {
+      "id": 1443,
+      "name": "./node_modules/url/util.js",
       "file": "static/chunks/commons.6f5bf562d8a7079350e9.js",
       "publicPath": "static/chunks/commons.6f5bf562d8a7079350e9.js"
     }

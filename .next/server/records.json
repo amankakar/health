@@ -111,18 +111,18 @@
   },
   "chunks": {
     "byName": {
-      "static/GlG0KNJQTHGfczZb0KmHo/pages/doctor.js": 0,
-      "static/GlG0KNJQTHGfczZb0KmHo/pages/doctor/patientRecord.js": 1,
-      "static/GlG0KNJQTHGfczZb0KmHo/pages/doctor/record.js": 2,
-      "static/GlG0KNJQTHGfczZb0KmHo/pages/hospital/hospitalDetails.js": 3,
-      "static/GlG0KNJQTHGfczZb0KmHo/pages/hospital/register.js": 4,
-      "static/GlG0KNJQTHGfczZb0KmHo/pages/index.js": 5,
-      "static/GlG0KNJQTHGfczZb0KmHo/pages/ipfs.js": 6,
-      "static/GlG0KNJQTHGfczZb0KmHo/pages/patient.js": 7,
-      "static/GlG0KNJQTHGfczZb0KmHo/pages/patient/record.js": 8,
-      "static/GlG0KNJQTHGfczZb0KmHo/pages/_app.js": 9,
-      "static/GlG0KNJQTHGfczZb0KmHo/pages/_error.js": 10,
-      "static/GlG0KNJQTHGfczZb0KmHo/pages/_document.js": 11
+      "static/fh72ValzIYidrC27gT7du/pages/doctor.js": 0,
+      "static/fh72ValzIYidrC27gT7du/pages/doctor/patientRecord.js": 1,
+      "static/fh72ValzIYidrC27gT7du/pages/doctor/record.js": 2,
+      "static/fh72ValzIYidrC27gT7du/pages/hospital/hospitalDetails.js": 3,
+      "static/fh72ValzIYidrC27gT7du/pages/hospital/register.js": 4,
+      "static/fh72ValzIYidrC27gT7du/pages/index.js": 5,
+      "static/fh72ValzIYidrC27gT7du/pages/ipfs.js": 6,
+      "static/fh72ValzIYidrC27gT7du/pages/patient.js": 7,
+      "static/fh72ValzIYidrC27gT7du/pages/patient/record.js": 8,
+      "static/fh72ValzIYidrC27gT7du/pages/_app.js": 9,
+      "static/fh72ValzIYidrC27gT7du/pages/_error.js": 10,
+      "static/fh72ValzIYidrC27gT7du/pages/_document.js": 11
     },
     "bySource": {},
     "usedIds": [
