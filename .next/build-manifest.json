@@ -2,64 +2,64 @@
   "devFiles": [],
   "pages": {
     "/doctor": [
-      "static/runtime/webpack-537dac27a855bf62cc9d.js",
-      "static/chunks/commons.6498a2628d748a4128bb.js",
-      "static/runtime/main-3de72536a667a3ae67e4.js"
+      "static/runtime/webpack-d8bcf81593fd15a232c9.js",
+      "static/chunks/commons.6f5bf562d8a7079350e9.js",
+      "static/runtime/main-08a73e4ecf8e25120744.js"
     ],
     "/doctor/patientRecord": [
-      "static/runtime/webpack-537dac27a855bf62cc9d.js",
-      "static/chunks/commons.6498a2628d748a4128bb.js",
-      "static/runtime/main-3de72536a667a3ae67e4.js"
+      "static/runtime/webpack-d8bcf81593fd15a232c9.js",
+      "static/chunks/commons.6f5bf562d8a7079350e9.js",
+      "static/runtime/main-08a73e4ecf8e25120744.js"
     ],
     "/doctor/record": [
-      "static/runtime/webpack-537dac27a855bf62cc9d.js",
-      "static/chunks/commons.6498a2628d748a4128bb.js",
-      "static/runtime/main-3de72536a667a3ae67e4.js"
+      "static/runtime/webpack-d8bcf81593fd15a232c9.js",
+      "static/chunks/commons.6f5bf562d8a7079350e9.js",
+      "static/runtime/main-08a73e4ecf8e25120744.js"
     ],
     "/hospital/hospitalDetails": [
-      "static/runtime/webpack-537dac27a855bf62cc9d.js",
-      "static/chunks/commons.6498a2628d748a4128bb.js",
-      "static/runtime/main-3de72536a667a3ae67e4.js"
+      "static/runtime/webpack-d8bcf81593fd15a232c9.js",
+      "static/chunks/commons.6f5bf562d8a7079350e9.js",
+      "static/runtime/main-08a73e4ecf8e25120744.js"
     ],
     "/hospital/register": [
-      "static/runtime/webpack-537dac27a855bf62cc9d.js",
-      "static/chunks/commons.6498a2628d748a4128bb.js",
-      "static/runtime/main-3de72536a667a3ae67e4.js"
+      "static/runtime/webpack-d8bcf81593fd15a232c9.js",
+      "static/chunks/commons.6f5bf562d8a7079350e9.js",
+      "static/runtime/main-08a73e4ecf8e25120744.js"
     ],
     "/index": [
-      "static/runtime/webpack-537dac27a855bf62cc9d.js",
-      "static/chunks/commons.6498a2628d748a4128bb.js",
-      "static/runtime/main-3de72536a667a3ae67e4.js"
+      "static/runtime/webpack-d8bcf81593fd15a232c9.js",
+      "static/chunks/commons.6f5bf562d8a7079350e9.js",
+      "static/runtime/main-08a73e4ecf8e25120744.js"
     ],
     "/ipfs": [
-      "static/runtime/webpack-537dac27a855bf62cc9d.js",
-      "static/chunks/commons.6498a2628d748a4128bb.js",
-      "static/runtime/main-3de72536a667a3ae67e4.js"
+      "static/runtime/webpack-d8bcf81593fd15a232c9.js",
+      "static/chunks/commons.6f5bf562d8a7079350e9.js",
+      "static/runtime/main-08a73e4ecf8e25120744.js"
     ],
     "/patient": [
-      "static/runtime/webpack-537dac27a855bf62cc9d.js",
-      "static/chunks/commons.6498a2628d748a4128bb.js",
-      "static/runtime/main-3de72536a667a3ae67e4.js"
+      "static/runtime/webpack-d8bcf81593fd15a232c9.js",
+      "static/chunks/commons.6f5bf562d8a7079350e9.js",
+      "static/runtime/main-08a73e4ecf8e25120744.js"
     ],
     "/patient/record": [
-      "static/runtime/webpack-537dac27a855bf62cc9d.js",
-      "static/chunks/commons.6498a2628d748a4128bb.js",
-      "static/runtime/main-3de72536a667a3ae67e4.js"
+      "static/runtime/webpack-d8bcf81593fd15a232c9.js",
+      "static/chunks/commons.6f5bf562d8a7079350e9.js",
+      "static/runtime/main-08a73e4ecf8e25120744.js"
     ],
     "/_app": [
-      "static/runtime/webpack-537dac27a855bf62cc9d.js",
-      "static/chunks/commons.6498a2628d748a4128bb.js",
-      "static/runtime/main-3de72536a667a3ae67e4.js"
+      "static/runtime/webpack-d8bcf81593fd15a232c9.js",
+      "static/chunks/commons.6f5bf562d8a7079350e9.js",
+      "static/runtime/main-08a73e4ecf8e25120744.js"
     ],
     "/_error": [
-      "static/runtime/webpack-537dac27a855bf62cc9d.js",
-      "static/chunks/commons.6498a2628d748a4128bb.js",
-      "static/runtime/main-3de72536a667a3ae67e4.js"
+      "static/runtime/webpack-d8bcf81593fd15a232c9.js",
+      "static/chunks/commons.6f5bf562d8a7079350e9.js",
+      "static/runtime/main-08a73e4ecf8e25120744.js"
     ],
     "/": [
-      "static/runtime/webpack-537dac27a855bf62cc9d.js",
-      "static/chunks/commons.6498a2628d748a4128bb.js",
-      "static/runtime/main-3de72536a667a3ae67e4.js"
+      "static/runtime/webpack-d8bcf81593fd15a232c9.js",
+      "static/chunks/commons.6f5bf562d8a7079350e9.js",
+      "static/runtime/main-08a73e4ecf8e25120744.js"
     ]
   }
 }
