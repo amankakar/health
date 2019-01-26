@@ -7,23 +7,16 @@
     "test": "test"
   },
   "scripts": {
-    "dev": "node server.js",
-    "build": "next build",
-    "now-build": "next build",
-    "heroku-postbuild": "next build",
-    "start": "NODE_ENV=production node server.js"
+    "test": "mocha",
+    "dev": "node server.js"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
     "bignumber.js": "^8.0.1",
-<<<<<<< HEAD
-=======
-    "express": "^4.16.4",
->>>>>>> c38b47d679be440ff43ea1a2286041a593dd9707
     "ipfs-api": "^26.1.2",
     "mocha": "^5.2.0",
-    "next": "^8.0.0-canary.7",
+    "next": "^7.0.2",
     "next-routes": "^1.4.2",
     "react": "^16.6.3",
     "react-datepicker": "^2.0.0",
@@ -37,5 +30,6 @@
     "semantic-ui-react": "^0.84.0",
     "truffle-contract": "^4.0.0-next.0",
     "web3": "^1.0.0-beta.35"
-  }
+  },
+  "devDependencies": {}
 }
