@@ -344,14 +344,10 @@ var styles = {
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-<<<<<<< HEAD
-module.exports = __webpack_require__(/*! /home/aman/Downloads/Video/health-care/node_modules/next/dist/pages/_error.js */"./node_modules/next/dist/pages/_error.js");
-=======
 module.exports = __webpack_require__(/*! next/dist/pages/_error */"./node_modules/next/dist/pages/_error.js");
 
 
 /***/ }),
->>>>>>> c38b47d679be440ff43ea1a2286041a593dd9707
 
 /***/ "next-server/head":
 /*!***********************************!*\

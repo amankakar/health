@@ -1158,9 +1158,6 @@ module.exports = __webpack_require__(/*! ./dist/server */ "./node_modules/styled
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-<<<<<<< HEAD
-module.exports = __webpack_require__(/*! /home/aman/Downloads/Video/health-care/node_modules/next/dist/pages/_document.js */"./node_modules/next/dist/pages/_document.js");
-=======
 module.exports = __webpack_require__(/*! next/dist/pages/_document */"./node_modules/next/dist/pages/_document.js");
 
 
@@ -1172,7 +1169,6 @@ module.exports = __webpack_require__(/*! next/dist/pages/_document */"./node_mod
   \*****************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
->>>>>>> c38b47d679be440ff43ea1a2286041a593dd9707
 
 module.exports = require("prop-types");
 

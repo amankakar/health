@@ -2,10 +2,7 @@ pragma solidity ^0.4.24;
 
 import "./Doctor.sol";
 import "./Patient.sol";
-<<<<<<< HEAD
-=======
 // import "./ReceptionistContract.sol";
->>>>>>> c38b47d679be440ff43ea1a2286041a593dd9707
 contract ReceptionsitFactory{
     // struct for reception summary and appointment
    struct ReceptionSummary{
@@ -26,10 +23,7 @@ contract ReceptionsitFactory{
 
 
         mapping(uint => Appointement) public appointements;
-<<<<<<< HEAD
-=======
         mapping(uint=>bool) public checkAppointmentId;
->>>>>>> c38b47d679be440ff43ea1a2286041a593dd9707
         ReceptionSummary[] public receptionSummary;
         address public factoryAddress;
         Patient public patient;
@@ -44,16 +38,9 @@ contract ReceptionsitFactory{
         mapping (uint => address)  public patientIdToAddress;
         mapping(uint=>bool) public checkPatientId;
         uint[] public patientId;
-<<<<<<< HEAD
-        address public patientAddress;
-
-        //for Doctor
-
-=======
         // address public patientAddress;
 
         //for Doctor
->>>>>>> c38b47d679be440ff43ea1a2286041a593dd9707
         mapping (address=>address) public accountToAddressDoctor;
         mapping (uint => address)  public doctorIdToAddress;
         mapping(uint=>bool) public checkDoctorId;
@@ -91,17 +78,6 @@ contract ReceptionsitFactory{
 
 
    function addPatient(uint _patientId, string _patientName, string _gender, uint _age, address _account) public {
-<<<<<<< HEAD
-                 require(!checkPatientId[_patientId]);
-                 require(!accountCheck[_account]);
-
-          patient = new Patient(_patientId , _patientName , _gender , _age , _account);
-          accountToAddressPatient[_account] = patient;
-          patientIdToAddress[_patientId] = patient;
-         accountCheck[_account]=true;
-         patientId.push(_patientId);
-        checkPatientId[_patientId]=true;
-=======
                  require(!checkPatientId[_patientId] && !accountCheck[_account]);
 
           patient = new Patient(_patientId , _patientName , _gender , _age , _account);
@@ -110,29 +86,18 @@ contract ReceptionsitFactory{
         patientId.push(_patientId);
         checkPatientId[_patientId]=true;
         accountCheck[_account] = true;
->>>>>>> c38b47d679be440ff43ea1a2286041a593dd9707
 
     }
 
     function addDoctor ( uint _DoctorId , string _DoctorName , string _DoctorGender, string _qualification , address _account){
         require(!checkDoctorId[_DoctorId]);
         require(!accountCheck[_account]);
-<<<<<<< HEAD
-
-        Doctor doc = new Doctor(_DoctorId , _DoctorName , _DoctorGender , _qualification , _account);
-        doctorIdToAddress[_DoctorId]= doc;
-        accountToAddressDoctor[_account] = doc;
-        accountCheck[_account]=true;
-        doctorId.push(_DoctorId);
-        checkDoctorId[_DoctorId] = true;
-=======
         Doctor doc = new Doctor(_DoctorId , _DoctorName , _DoctorGender , _qualification , _account);
         doctorIdToAddress[_DoctorId]= doc;
         accountToAddressDoctor[_account] = doc;
         doctorId.push(_DoctorId);
         checkDoctorId[_DoctorId] = true;
         accountCheck[_account]=true;
->>>>>>> c38b47d679be440ff43ea1a2286041a593dd9707
         doc.setFactoryAddress(factoryAddress);
 
 
@@ -148,11 +113,7 @@ contract ReceptionsitFactory{
 
 
   function createAppointment( uint  _AppointementId, uint _PatientId , uint _DoctorId, string _Date , string _chepComplaint ) public  {
-<<<<<<< HEAD
-
-=======
           require(!checkAppointmentId[_AppointementId]);
->>>>>>> c38b47d679be440ff43ea1a2286041a593dd9707
     Appointement memory newAppointement = Appointement({
       appointementId : _AppointementId,
       patientId : _PatientId,
@@ -161,12 +122,8 @@ contract ReceptionsitFactory{
       chepComplaint: _chepComplaint
     });
     appointements[_AppointementId] = newAppointement;
-<<<<<<< HEAD
-    patientAddress= getPatientAddress(_PatientId);
-=======
     checkAppointmentId[_AppointementId] = true;
     address patientAddress= getPatientAddress(_PatientId);
->>>>>>> c38b47d679be440ff43ea1a2286041a593dd9707
     Patient patient1 = Patient(patientAddress);
     patient1.addAppointment(_AppointementId, _PatientId , _DoctorId , _Date, _chepComplaint);
     address doctorAddress = getDoctorAddress(_DoctorId);
@@ -201,10 +158,6 @@ contract Receptionsit{
     address public manager;
     string public hospitalName;
     string public receptionistName;
-<<<<<<< HEAD
-    Patient patient;
-=======
->>>>>>> c38b47d679be440ff43ea1a2286041a593dd9707
 
     constructor (string _hospitalName, string _receptionistName , address _manager) public {
         hospitalName = _hospitalName;

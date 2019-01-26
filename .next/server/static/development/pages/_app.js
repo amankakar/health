@@ -645,9 +645,6 @@ module.exports = __webpack_require__(/*! ./dist/client/router */ "./node_modules
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-<<<<<<< HEAD
-module.exports = __webpack_require__(/*! /home/aman/Downloads/Video/health-care/node_modules/next/dist/pages/_app.js */"./node_modules/next/dist/pages/_app.js");
-=======
 module.exports = __webpack_require__(/*! next/dist/pages/_app */"./node_modules/next/dist/pages/_app.js");
 
 
@@ -692,7 +689,6 @@ module.exports = require("prop-types");
   \************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
->>>>>>> c38b47d679be440ff43ea1a2286041a593dd9707
 
 module.exports = require("react");
 
