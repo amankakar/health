@@ -1,0 +1,75 @@
+{
+  "modules": {
+    "byIdentifier": {
+      "multi private-next-pages/doctor/index.js": 0,
+      "multi private-next-pages/doctor/patientRecord.js": 1,
+      "multi private-next-pages/doctor/record.js": 2,
+      "multi private-next-pages/hospital/hospitalDetails.js": 3,
+      "multi private-next-pages/hospital/register.js": 4,
+      "multi private-next-pages/index.js": 5,
+      "multi private-next-pages/ipfs.js": 6,
+      "multi private-next-pages/patient/index.js": 7,
+      "multi private-next-pages/patient/record.js": 8,
+      "multi next/dist/pages/_app": 9,
+      "multi next/dist/pages/_error": 10,
+      "multi next/dist/pages/_document": 11
+    },
+    "usedIds": {
+      "0": 0,
+      "1": 1,
+      "2": 2,
+      "3": 3,
+      "4": 4,
+      "5": 5,
+      "6": 6,
+      "7": 7,
+      "8": 8,
+      "9": 9,
+      "10": 10,
+      "11": 11
+    }
+  },
+  "chunks": {
+    "byName": {
+      "static/LCUFvStx8iz43PGXrC0np/pages/_app.js": 0,
+      "static/LCUFvStx8iz43PGXrC0np/pages/_document.js": 1,
+      "static/LCUFvStx8iz43PGXrC0np/pages/_error.js": 2,
+      "static/LCUFvStx8iz43PGXrC0np/pages/doctor.js": 3,
+      "static/LCUFvStx8iz43PGXrC0np/pages/doctor/patientRecord.js": 4,
+      "static/LCUFvStx8iz43PGXrC0np/pages/doctor/record.js": 5,
+      "static/LCUFvStx8iz43PGXrC0np/pages/hospital/hospitalDetails.js": 6,
+      "static/LCUFvStx8iz43PGXrC0np/pages/hospital/register.js": 7,
+      "static/LCUFvStx8iz43PGXrC0np/pages/index.js": 8,
+      "static/LCUFvStx8iz43PGXrC0np/pages/ipfs.js": 9,
+      "static/LCUFvStx8iz43PGXrC0np/pages/patient.js": 10,
+      "static/LCUFvStx8iz43PGXrC0np/pages/patient/record.js": 11,
+      "static/HD5Drdicr7ecZgtN4Rv1r/pages/_app.js": 12,
+      "static/HD5Drdicr7ecZgtN4Rv1r/pages/_document.js": 13,
+      "static/HD5Drdicr7ecZgtN4Rv1r/pages/_error.js": 14,
+      "static/HD5Drdicr7ecZgtN4Rv1r/pages/doctor.js": 15,
+      "static/HD5Drdicr7ecZgtN4Rv1r/pages/doctor/patientRecord.js": 16,
+      "static/HD5Drdicr7ecZgtN4Rv1r/pages/doctor/record.js": 17,
+      "static/HD5Drdicr7ecZgtN4Rv1r/pages/hospital/hospitalDetails.js": 18,
+      "static/HD5Drdicr7ecZgtN4Rv1r/pages/hospital/register.js": 19,
+      "static/HD5Drdicr7ecZgtN4Rv1r/pages/index.js": 20,
+      "static/HD5Drdicr7ecZgtN4Rv1r/pages/ipfs.js": 21,
+      "static/HD5Drdicr7ecZgtN4Rv1r/pages/patient.js": 22,
+      "static/HD5Drdicr7ecZgtN4Rv1r/pages/patient/record.js": 23
+    },
+    "bySource": {},
+    "usedIds": [
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23
+    ]
+  }
+}
