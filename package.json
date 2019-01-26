@@ -1,7 +1,7 @@
 {
   "name": "health-care",
   "version": "1.0.0",
-  "description": "",
+  "description": "Health -care project",
   "main": "truffle-config.js",
   "directories": {
     "test": "test"
