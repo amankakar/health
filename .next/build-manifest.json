@@ -1,0 +1,68 @@
+{
+  "devFiles": [],
+  "pages": {
+    "/doctor": [
+      "static/runtime/webpack-537dac27a855bf62cc9d.js",
+      "static/chunks/commons.edb2b30d951966bff205.js",
+      "static/runtime/main-30e0cfb57df5cf29f832.js"
+    ],
+    "/doctor/patientRecord": [
+      "static/runtime/webpack-537dac27a855bf62cc9d.js",
+      "static/chunks/commons.edb2b30d951966bff205.js",
+      "static/runtime/main-30e0cfb57df5cf29f832.js"
+    ],
+    "/doctor/record": [
+      "static/runtime/webpack-537dac27a855bf62cc9d.js",
+      "static/chunks/commons.edb2b30d951966bff205.js",
+      "static/runtime/main-30e0cfb57df5cf29f832.js"
+    ],
+<<<<<<< HEAD
+=======
+    "/hospital/hospitalDetails": [
+      "static/runtime/webpack-537dac27a855bf62cc9d.js",
+      "static/chunks/commons.edb2b30d951966bff205.js",
+      "static/runtime/main-30e0cfb57df5cf29f832.js"
+    ],
+    "/hospital/register": [
+      "static/runtime/webpack-537dac27a855bf62cc9d.js",
+      "static/chunks/commons.edb2b30d951966bff205.js",
+      "static/runtime/main-30e0cfb57df5cf29f832.js"
+    ],
+    "/index": [
+      "static/runtime/webpack-537dac27a855bf62cc9d.js",
+      "static/chunks/commons.edb2b30d951966bff205.js",
+      "static/runtime/main-30e0cfb57df5cf29f832.js"
+    ],
+    "/ipfs": [
+      "static/runtime/webpack-537dac27a855bf62cc9d.js",
+      "static/chunks/commons.edb2b30d951966bff205.js",
+      "static/runtime/main-30e0cfb57df5cf29f832.js"
+    ],
+    "/patient": [
+      "static/runtime/webpack-537dac27a855bf62cc9d.js",
+      "static/chunks/commons.edb2b30d951966bff205.js",
+      "static/runtime/main-30e0cfb57df5cf29f832.js"
+    ],
+    "/patient/record": [
+      "static/runtime/webpack-537dac27a855bf62cc9d.js",
+      "static/chunks/commons.edb2b30d951966bff205.js",
+      "static/runtime/main-30e0cfb57df5cf29f832.js"
+    ],
+    "/_app": [
+      "static/runtime/webpack-537dac27a855bf62cc9d.js",
+      "static/chunks/commons.edb2b30d951966bff205.js",
+      "static/runtime/main-30e0cfb57df5cf29f832.js"
+    ],
+    "/_error": [
+      "static/runtime/webpack-537dac27a855bf62cc9d.js",
+      "static/chunks/commons.edb2b30d951966bff205.js",
+      "static/runtime/main-30e0cfb57df5cf29f832.js"
+    ],
+>>>>>>> c38b47d679be440ff43ea1a2286041a593dd9707
+    "/": [
+      "static/runtime/webpack-537dac27a855bf62cc9d.js",
+      "static/chunks/commons.edb2b30d951966bff205.js",
+      "static/runtime/main-30e0cfb57df5cf29f832.js"
+    ]
+  }
+}

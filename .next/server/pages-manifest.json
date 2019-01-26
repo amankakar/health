@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+{"/_app":"static/development/pages/_app.js","/_error":"static/development/pages/_error.js","/_document":"static/development/pages/_document.js","/index":"static/development/pages/index.js","/":"static/development/pages/index.js"}
+=======
+{"/doctor":"static/~UWenSyDW5IeVQZwodh3T/pages/doctor.js","/doctor/patientRecord":"static/~UWenSyDW5IeVQZwodh3T/pages/doctor/patientRecord.js","/doctor/record":"static/~UWenSyDW5IeVQZwodh3T/pages/doctor/record.js","/hospital/hospitalDetails":"static/~UWenSyDW5IeVQZwodh3T/pages/hospital/hospitalDetails.js","/hospital/register":"static/~UWenSyDW5IeVQZwodh3T/pages/hospital/register.js","/index":"static/~UWenSyDW5IeVQZwodh3T/pages/index.js","/ipfs":"static/~UWenSyDW5IeVQZwodh3T/pages/ipfs.js","/patient":"static/~UWenSyDW5IeVQZwodh3T/pages/patient.js","/patient/record":"static/~UWenSyDW5IeVQZwodh3T/pages/patient/record.js","/_app":"static/~UWenSyDW5IeVQZwodh3T/pages/_app.js","/_error":"static/~UWenSyDW5IeVQZwodh3T/pages/_error.js","/_document":"static/~UWenSyDW5IeVQZwodh3T/pages/_document.js","/":"static/~UWenSyDW5IeVQZwodh3T/pages/index.js"}
+>>>>>>> c38b47d679be440ff43ea1a2286041a593dd9707

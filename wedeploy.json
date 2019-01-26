@@ -1,0 +1,6 @@
+{
+  "id": "health-care",
+  "env": {
+    "NODE_ENV": "production"
+  }
+}

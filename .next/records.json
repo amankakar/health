@@ -1,0 +1,87 @@
+{
+  "modules": {
+    "byIdentifier": {
+      "ignored node_modules/node-forge/lib crypto": 0,
+      "ignored node_modules/ipfs-api/node_modules/readable-stream/lib util": 1,
+      "ignored node_modules/ipfs-api/node_modules/readable-stream/lib/internal/streams util": 2,
+      "ignored node_modules/ipfs-api/src/utils fs": 3,
+      "ignored node_modules/ipfs-api/src/utils glob": 4,
+      "ignored node_modules/ipfs-api/node_modules/bl/node_modules/readable-stream/lib util": 5,
+      "ignored node_modules/ipfs-api/node_modules/bl/node_modules/readable-stream/lib/internal/streams util": 6,
+      "ignored node_modules/pump fs": 7,
+      "ignored node_modules/peer-id/node_modules/tweetnacl crypto": 8,
+      "ignored node_modules/peer-info/node_modules/tweetnacl crypto": 9,
+      "ignored node_modules/libp2p-crypto/node_modules/tweetnacl crypto": 10,
+      "ignored node_modules/pdfjs-dist/build zlib": 11,
+      "ignored node_modules/pdfjs-dist/build fs": 12,
+      "ignored node_modules/pdfjs-dist/build http": 13,
+      "ignored node_modules/pdfjs-dist/build https": 14,
+      "multi node_modules/next/dist/client/next": 15,
+      "ignored node_modules/readable-stream/lib util": 16,
+      "ignored node_modules/readable-stream/lib/internal/streams util": 17,
+      "ignored node_modules/bn.js/lib buffer": 18,
+      "ignored node_modules/brorand crypto": 19
+    },
+    "usedIds": {
+      "0": 0,
+      "1": 1,
+      "2": 2,
+      "3": 3,
+      "4": 4,
+      "5": 5,
+      "6": 6,
+      "7": 7,
+      "8": 8,
+      "9": 9,
+      "10": 10,
+      "11": 11,
+      "12": 12,
+      "13": 13,
+      "14": 14,
+      "15": 15,
+      "16": 16,
+      "17": 17,
+      "18": 18,
+      "19": 19
+    }
+  },
+  "chunks": {
+    "byName": {
+      "commons": 0,
+      "static/runtime/webpack.js": 1,
+      "pdfjsWorker": 2,
+      "static/runtime/main.js": 3,
+      "static/~UWenSyDW5IeVQZwodh3T/pages/_app.js": 4,
+      "static/~UWenSyDW5IeVQZwodh3T/pages/_error.js": 5,
+      "static/~UWenSyDW5IeVQZwodh3T/pages/doctor.js": 6,
+      "static/~UWenSyDW5IeVQZwodh3T/pages/doctor/patientRecord.js": 7,
+      "static/~UWenSyDW5IeVQZwodh3T/pages/doctor/record.js": 8,
+      "static/~UWenSyDW5IeVQZwodh3T/pages/hospital/hospitalDetails.js": 9,
+      "static/~UWenSyDW5IeVQZwodh3T/pages/hospital/register.js": 10,
+      "static/~UWenSyDW5IeVQZwodh3T/pages/index.js": 11,
+      "static/~UWenSyDW5IeVQZwodh3T/pages/ipfs.js": 12,
+      "static/~UWenSyDW5IeVQZwodh3T/pages/patient.js": 13,
+      "static/~UWenSyDW5IeVQZwodh3T/pages/patient/record.js": 14
+    },
+    "bySource": {
+      "0 node_modules/pdfjs-dist/build/pdf.js {\"line\":7873,\"column\":6}": 2
+    },
+    "usedIds": [
+      0,
+      1,
+      10,
+      11,
+      12,
+      13,
+      14,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ]
+  }
+}
