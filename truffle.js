@@ -16,8 +16,9 @@ module.exports = {
   networks: {
     development: {
       host: "localhost",
-      port: 9545,
-      network_id: "*" // Match any network id
+      port: 8042,
+      network_id: "*", // Match any network id
+      from: "0x890061106c2860Fd7776c84D252C6aF2A160bE50"
     }
   }
   // See <http://truffleframework.com/docs/advanced/configuration>
