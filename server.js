@@ -28,6 +28,6 @@ app.prepare().then(() => {
     .use(handler)
     .listen(server_port, server_host, err => {
       if (err) throw err;
-      console.log(server_port);
+      console.log(server_port, server_host);
     });
 });

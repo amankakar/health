@@ -565,7 +565,7 @@
       "publicPath": "static/chunks/commons.6f5bf562d8a7079350e9.js"
     }
   ],
-  "./isString": [
+  "lodash/isString": [
     {
       "id": 126,
       "name": "./node_modules/lodash/isString.js",
@@ -915,7 +915,7 @@
       "publicPath": "static/chunks/commons.6f5bf562d8a7079350e9.js"
     }
   ],
-  "../../modules/es6.string.iterator": [
+  "../modules/es6.string.iterator": [
     {
       "id": 264,
       "name": "./node_modules/core-js/library/modules/es6.string.iterator.js",
@@ -1051,7 +1051,7 @@
       "publicPath": "static/chunks/commons.6f5bf562d8a7079350e9.js"
     }
   ],
-  "../isPlainObject": [
+  "lodash/isPlainObject": [
     {
       "id": 338,
       "name": "./node_modules/lodash/isPlainObject.js",
@@ -4271,7 +4271,7 @@
       "publicPath": "static/chunks/commons.6f5bf562d8a7079350e9.js"
     }
   ],
-  "../memoize": [
+  "./memoize": [
     {
       "id": 1540,
       "name": "./node_modules/lodash/memoize.js",
