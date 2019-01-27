@@ -2,7 +2,7 @@
   "name": "health-care",
   "version": "1.0.0",
   "description": "",
-  "main": "truffle-config.js",
+  "main": "server.js",
   "directories": {
     "test": "test"
   },
