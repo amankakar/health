@@ -3,6 +3,4 @@ truffleContract.js
 webpack.config.js
 README.md
 test
-contracts
-migrations
-node_modules
+node_modules/
