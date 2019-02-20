@@ -1,4 +1,12 @@
 {
+  "./pdf.worker.js": [
+    {
+      "id": "./node_modules/pdfjs-dist/build/pdf.worker.js",
+      "name": "./node_modules/pdfjs-dist/build/pdf.worker.js",
+      "file": "static/chunks/pdfjsWorker.js",
+      "publicPath": "static/chunks/pdfjsWorker.js"
+    }
+  ],
   "./noop": [
     {
       "id": "./node_modules/next/dist/client/noop.js",

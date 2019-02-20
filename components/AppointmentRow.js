@@ -19,7 +19,7 @@ class AppointmentRow extends Component {
         <Cell>{appointment.date}</Cell>
         <Cell>{appointment.chiefComplaint}</Cell>
         <Cell>
-          <Link route={`record/${hash}`}>
+          <Link route={`patient/record/${hash}`}>
             <a>{hash}</a>
           </Link>
         </Cell>

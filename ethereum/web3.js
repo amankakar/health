@@ -7,7 +7,7 @@ if (typeof window !== "undefined" && typeof window.web3 !== "undefined") {
   web3 = new Web3(window.web3.currentProvider);
 } else {
   //we are on the server OR user is not running metamask
-  const provider = new Web3.providers.HttpProvider("http://localhost:9545");
+  const provider = new Web3.providers.HttpProvider("http://localhost:8545");
 
   web3 = new Web3(provider);
 }

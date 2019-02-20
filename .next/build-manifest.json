@@ -15,6 +15,22 @@
       "static/runtime/webpack.js",
       "static/runtime/main.js"
     ],
+    "/patient": [
+      "static/runtime/webpack.js",
+      "static/runtime/main.js"
+    ],
+    "/doctor": [
+      "static/runtime/webpack.js",
+      "static/runtime/main.js"
+    ],
+    "/doctor/patientRecord": [
+      "static/runtime/webpack.js",
+      "static/runtime/main.js"
+    ],
+    "/doctor/record": [
+      "static/runtime/webpack.js",
+      "static/runtime/main.js"
+    ],
     "/": [
       "static/runtime/webpack.js",
       "static/runtime/main.js"

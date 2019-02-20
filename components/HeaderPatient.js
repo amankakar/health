@@ -4,9 +4,14 @@ import { Link } from "../routes";
 export default () => {
   return (
     <Menu style={{ marginTop: 10 }}>
-      <Link route="/patient/">
+      <Link route="/">
         <a className="item">Health Care Management System</a>
       </Link>
+      <Menu position="right">
+        <Link route="/">
+          <a className="item"> Home </a>
+        </Link>
+      </Menu>
     </Menu>
   );
 };

@@ -35,8 +35,6 @@ class patient extends Component {
     );
     console.log(patientAddress);
     if (patientAddress == 0x0000000000000000000000000000000000000000) {
-      alert("Sorry check your account or contact with authorized person");
-
       return { patientAddress: null };
     } else {
       const patientContract = await patient.at(patientAddress);
