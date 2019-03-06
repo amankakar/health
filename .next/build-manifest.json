@@ -1,70 +1,23 @@
 {
-  "devFiles": [],
+  "devFiles": [
+    "static/development/dll/dll_86d7de3159d32d38a4d2.js"
+  ],
   "pages": {
     "/_error": [
-      "static/runtime/webpack-222bc9ae27b0e166fa31.js",
-      "static/chunks/commons.c2334559c52851854549.js",
-      "static/runtime/main-4cb58e0ce40aeb98d10d.js"
-    ],
-    "/doctor": [
-      "static/runtime/webpack-222bc9ae27b0e166fa31.js",
-      "static/chunks/commons.c2334559c52851854549.js",
-      "static/runtime/main-4cb58e0ce40aeb98d10d.js"
-    ],
-    "/doctor/patientRecord": [
-      "static/runtime/webpack-222bc9ae27b0e166fa31.js",
-      "static/chunks/commons.c2334559c52851854549.js",
-      "static/runtime/main-4cb58e0ce40aeb98d10d.js"
-    ],
-    "/doctor/record": [
-      "static/runtime/webpack-222bc9ae27b0e166fa31.js",
-      "static/chunks/commons.c2334559c52851854549.js",
-      "static/runtime/main-4cb58e0ce40aeb98d10d.js"
-    ],
-    "/hospital": [
-      "static/runtime/webpack-222bc9ae27b0e166fa31.js",
-      "static/chunks/commons.c2334559c52851854549.js",
-      "static/runtime/main-4cb58e0ce40aeb98d10d.js"
-    ],
-    "/hospital/hospitalDetails": [
-      "static/runtime/webpack-222bc9ae27b0e166fa31.js",
-      "static/chunks/commons.c2334559c52851854549.js",
-      "static/runtime/main-4cb58e0ce40aeb98d10d.js"
-    ],
-    "/hospital/register": [
-      "static/runtime/webpack-222bc9ae27b0e166fa31.js",
-      "static/chunks/commons.c2334559c52851854549.js",
-      "static/runtime/main-4cb58e0ce40aeb98d10d.js"
-    ],
-    "/index": [
-      "static/runtime/webpack-222bc9ae27b0e166fa31.js",
-      "static/chunks/commons.c2334559c52851854549.js",
-      "static/runtime/main-4cb58e0ce40aeb98d10d.js"
-    ],
-    "/ipfs": [
-      "static/runtime/webpack-222bc9ae27b0e166fa31.js",
-      "static/chunks/commons.c2334559c52851854549.js",
-      "static/runtime/main-4cb58e0ce40aeb98d10d.js"
-    ],
-    "/patient": [
-      "static/runtime/webpack-222bc9ae27b0e166fa31.js",
-      "static/chunks/commons.c2334559c52851854549.js",
-      "static/runtime/main-4cb58e0ce40aeb98d10d.js"
-    ],
-    "/patient/record": [
-      "static/runtime/webpack-222bc9ae27b0e166fa31.js",
-      "static/chunks/commons.c2334559c52851854549.js",
-      "static/runtime/main-4cb58e0ce40aeb98d10d.js"
+      "static/runtime/webpack.js",
+      "static/runtime/main.js"
     ],
     "/_app": [
-      "static/runtime/webpack-222bc9ae27b0e166fa31.js",
-      "static/chunks/commons.c2334559c52851854549.js",
-      "static/runtime/main-4cb58e0ce40aeb98d10d.js"
+      "static/runtime/webpack.js",
+      "static/runtime/main.js"
     ],
-    "/": [
-      "static/runtime/webpack-222bc9ae27b0e166fa31.js",
-      "static/chunks/commons.c2334559c52851854549.js",
-      "static/runtime/main-4cb58e0ce40aeb98d10d.js"
+    "/hospital": [
+      "static/runtime/webpack.js",
+      "static/runtime/main.js"
+    ],
+    "/hospital/hospitalDetails": [
+      "static/runtime/webpack.js",
+      "static/runtime/main.js"
     ]
   }
 }

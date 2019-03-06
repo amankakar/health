@@ -9129,7 +9129,7 @@ module.exports = function(module) {
 
 /***/ }),
 
-/***/ 1:
+/***/ 2:
 /*!****************************************************!*\
   !*** multi ./node_modules/next/dist/pages/_app.js ***!
   \****************************************************/
@@ -9137,7 +9137,7 @@ module.exports = function(module) {
 /***/ (function(module, exports, __webpack_require__) {
 
 __NEXT_REGISTER_PAGE('/_app', function() {
-module.exports = __webpack_require__(/*! /media/aman/NEW/health/node_modules/next/dist/pages/_app.js */"./node_modules/next/dist/pages/_app.js");
+module.exports = __webpack_require__(/*! /home/aman/Downloads/Video/health/node_modules/next/dist/pages/_app.js */"./node_modules/next/dist/pages/_app.js");
 
 return { page: module.exports.default }});
 
@@ -9154,5 +9154,5 @@ module.exports = dll_52339ab353c8e0db40da;
 
 /***/ })
 
-},[[1,"static/runtime/webpack.js"]]]));;
+},[[2,"static/runtime/webpack.js"]]]));;
 //# sourceMappingURL=_app.js.map

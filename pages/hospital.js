@@ -120,14 +120,7 @@ class index extends Component {
             </div>{" "}
           </div>
           <hr />
-          <div>{this.renderHospitals()};</div>
-          <Link route="/patient/">
-            <a>this is link to patient/index.js page</a>
-          </Link>
-
-          <Link route="/doctor">
-            <a>Doctor Page Link</a>
-          </Link>
+          <div>{this.renderHospitals()}</div>
         </Layout>
       );
     }

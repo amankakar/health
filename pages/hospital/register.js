@@ -95,7 +95,7 @@ class register extends Component {
       // });
     } catch (error) {
       console.log(error);
-      this.setState({ errorMessage: err.message });
+      this.setState({ errorMessage: error.message });
     }
     this.setState({ loading: false });
   };

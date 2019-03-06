@@ -21,6 +21,11 @@ class index extends Component {
           <Link route="/doctor">
             <Button primary>Doctor</Button>
           </Link>
+          <Link route="hospital/register">
+            <Button floated="right" primary icon labelPosition="left">
+              Register New Admin/Receptionist
+            </Button>
+          </Link>
         </div>
       </Layout>
     );

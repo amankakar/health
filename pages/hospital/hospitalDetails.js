@@ -168,7 +168,7 @@ class hospitalDetails extends Component {
         this.setState({ errorMessagePatient: error.message });
       }
       this.setState({ loading: false });
-
+      console.log("action completed");
       const patientinstanceAddress = await factoryInstance.patientIdToAddress.call(
         this.state.patientId
       );
